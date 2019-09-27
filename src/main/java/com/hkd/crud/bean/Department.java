@@ -9,12 +9,14 @@ public class Department {
         super();
         ///范德萨发阿发生的fuck
         ///范德萨发阿发生的new change
+        System.out.println("hehhehe");
     }
 
     public Department(Integer deptId, String deptName) {
         this.deptId = deptId;
         this.deptName = deptName;
     }
+
 
     public Integer getDeptId() {
         return deptId;
