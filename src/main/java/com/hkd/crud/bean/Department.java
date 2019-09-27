@@ -11,7 +11,7 @@ public class Department {
         ///范德萨发阿发生的new change
     }
     public void show(){
-        System.out.println("fuckaa");
+        System.out.println("fuckaaaaaa");
     }
     public Department(Integer deptId, String deptName) {
         this.deptId = deptId;
