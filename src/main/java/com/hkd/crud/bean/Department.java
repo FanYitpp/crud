@@ -9,7 +9,7 @@ public class Department {
         super();
         ///范德萨发阿发生的fuck
         ///范德萨发阿发生的new change
-        System.out.println("hehhehe");
+        System.out.println("hehheheaaaaaa");
     }
 
     public Department(Integer deptId, String deptName) {
