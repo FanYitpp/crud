@@ -7,6 +7,7 @@ public class Department {
 
     public Department() {
         super();
+        ///范德萨发
     }
 
     public Department(Integer deptId, String deptName) {
