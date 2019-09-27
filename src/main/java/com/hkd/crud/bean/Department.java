@@ -8,6 +8,7 @@ public class Department {
     public Department() {
         super();
         ///范德萨发阿发生的fuck
+        ///范德萨发阿发生的new change
     }
 
     public Department(Integer deptId, String deptName) {
