@@ -7,7 +7,7 @@ public class Department {
 
     public Department() {
         super();
-        ///范德萨发发送到发送到发送到发不过
+        ///范德萨发阿发生的
     }
 
     public Department(Integer deptId, String deptName) {
